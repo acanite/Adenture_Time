@@ -35,13 +35,20 @@ You can either choose to download the zip file for this repo and unzip it on you
 You could clone this repo to your computer.
 To download the zip file, click on the green button that says Code:
 
+![github acanite](https://github.com/acanite/Adenture_Time/assets/100510532/e75a2ec4-b6dd-4761-972d-9933fc92c4b8)
+
+
 Screenshot (80)
 
 Then Click on Download ZIP:
 
+![github acanite](https://github.com/acanite/Adenture_Time/assets/100510532/807e2131-a9a2-4f24-9767-f83133b6479e)
+
 Screenshot (81)
 
 After you've downloaded the game folder on your computer using any of the methods above, simply open the folder and click on the executable (application) maze file to launch:
+
+![github acanite](https://github.com/acanite/Adenture_Time/assets/100510532/876fc4c7-a5bb-4f23-82c4-5529d936b599)
 
 Screenshot (82)
 
